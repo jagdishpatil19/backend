@@ -1,0 +1,18 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "a basic app depoly",
+  "main": "index.js",
+  "scripts": {
+     "start":"node index.js"
+     
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "jagdish patil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
